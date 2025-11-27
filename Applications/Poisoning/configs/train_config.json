@@ -1,0 +1,5 @@
+{
+    "model_size": 32,
+    "epochs": 10,
+    "batch_size": 32
+}
