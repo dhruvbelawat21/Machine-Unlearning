@@ -1,0 +1,6 @@
+{
+  "method": "second_order",
+  "max_iters": 20,
+  "learning_rate": 0.001,
+  "tolerance": 1e-5
+}
